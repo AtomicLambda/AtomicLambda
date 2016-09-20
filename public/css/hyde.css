@@ -32,7 +32,8 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  /*font-family: "PT Sans", Helvetica, Arial, sans-serif;*/
+  font-family: 'Raleway', sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -56,8 +57,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: #F7F4EA;
+  background-color: #474350;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -72,15 +73,24 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #6D98BA;
 }
 
 /* About section */
-.sidebar-about h1 {
-  color: #fff;
+.sidebar-about h1 a {
+  color: #30C5FF;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  /*font-family: "Abril Fatface", serif;*/
+  /*font-family: 'Monoton', cursive;*/
+  /*font-family: 'Lobster', cursive;*/
+  /*font-family: 'Fredericka the Great', cursive;*/
+  /*font-family: 'Satisfy', cursive;*/
+  font-family: 'Playfair Display', serif;
+  font-size: 3.20rem;
+}
+
+.title_tag {
+  margin-left: 30px;
 }
 
 /* Sidebar nav */

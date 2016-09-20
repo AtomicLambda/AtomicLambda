@@ -7,9 +7,10 @@ highlighter:      rouge
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Atomic
+title_tag:        Lambda
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'This is my attempt of trying to document my experience in software.'
 url:              http://hyde.getpoole.com
 baseurl:          /AtomicLambda/
 
